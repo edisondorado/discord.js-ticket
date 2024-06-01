@@ -1,0 +1,7 @@
+{
+    "bot": {
+        "token": "YOUR_TOKEN",
+        "guildId": "TEST_GUILD_ID",
+        "clientId": "YOUR_CLIENT_ID"
+    }
+}
